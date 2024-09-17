@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    color: purple;
+}
+
+.container-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.header {
+    color: purple;
+}
+
+.btn-purple {
+    background-color: purple;
+    color: white;
+}
+
+.navbar-custom {
+    background-color: purple;
+}
+
+.navbar-text-custom {
+    color: white;
+}
+
+.logout-btn {
+    background-color: white;
+    color: purple;
+    border: 1px solid purple;
+}
